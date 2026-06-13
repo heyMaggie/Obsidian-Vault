@@ -1,0 +1,512 @@
+## Lesson 17 - Always Young 考研七步法（完整版）
+
+> **课文背景**：本文讲述一位名叫珍妮弗的女演员，已经年过八十，却依然扮演年轻女孩。作者通过描述她拒绝透露年龄、坚持“永远年轻”的人生态度，引出标题“Always Young”的双关含义。
+
+
+## 📖 课文原文
+
+**Always Young**
+
+My aunt Jennifer is an actress. She must be at least thirty-five years old. In spite of this, she often appears on the stage as a young girl. Jennifer will have to take part in a new play soon. This time, she will be a girl of seventeen. In the play, she must appear in a bright red dress and long black stockings. Last year in another play, she had to wear short socks and a bright, orange-coloured dress. If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'
+
+
+## 第一部分：考研考点分析
+
+### 一、核心词汇（考研重点）
+
+| 单词/短语                   | 在L17中的句子                           | 考研常考含义  | 考察方式                                 |
+| ----------------------- | ---------------------------------- | ------- | ------------------------------------ |
+| **aunt**                | My aunt Jennifer                   | 姑母/姨母   | 基础词汇                                 |
+| **actress**             | is an actress                      | 女演员     | **考研高频**：actress/actor 派生            |
+| **must be**             | She must be at least thirty-five   | 一定是（推测） | **考研高频**：must表推测                     |
+| **at least**            | at least thirty-five               | 至少      | **考研高频**：at least/at most 辨析         |
+| **in spite of**         | In spite of this                   | 尽管      | **考研高频**：固定短语                        |
+| **appear on the stage** | appears on the stage               | 登台演出    | 短语动词                                 |
+| **as a young girl**     | as a young girl                    | 作为年轻女孩  | 介词短语                                 |
+| **will have to**        | will have to take part in          | 将不得不    | **考研高频**：have to 的将来时                |
+| **take part in**        | take part in a new play            | 参加      | **考研高频**：take part in/join/attend 辨析 |
+| **play**                | a new play                         | 戏剧      | 一词多义                                 |
+| **a girl of seventeen** | a girl of seventeen                | 17岁的女孩  | 年龄表达                                 |
+| **bright red**          | a bright red dress                 | 鲜红色     | 颜色修饰                                 |
+| **dress**               | a bright red dress                 | 连衣裙     | 基础词汇                                 |
+| **stockings**           | long black stockings               | 长袜      | 阅读中出现                                |
+| **had to**              | she had to wear short socks        | 不得不（过去） | **考研高频**：have to 的过去时                |
+| **wear**                | wear short socks                   | 穿       | **考研高频**：wear/put on/dress 辨析        |
+| **socks**               | short socks                        | 短袜      | 阅读中出现                                |
+| **orange-coloured**     | a bright, orange-coloured dress    | 橘黄色的    | 复合形容词                                |
+| **if anyone ever asks** | If anyone ever asks her            | 如果有人问   | 条件状语从句                               |
+| **how old**             | how old she is                     | 多大年龄    | 疑问词                                  |
+| **darling**             | Darling                            | 亲爱的     | 称呼语                                  |
+| **must be terrible**    | it must be terrible to be grown up | 一定很可怕   | must表推测                              |
+| **grown up**            | to be grown up                     | 长大/成年   | **考研高频**：grown-up 名词/形容词             |
+
+**考研真题链接**：
+
+**in spite of / despite / although** 辨析（考研高频）：
+> **in spite of** + 名词/代词（同 despite）
+> **although** + 从句
+
+**have to / must** 区别：
+> **have to**：客观需要（不得不）
+> **must**：主观义务（必须）/ 推测（一定）
+
+**wear / put on / dress** 辨析：
+> **wear**：穿着（状态）| wear a red dress
+> **put on**：穿上（动作）| put on a coat
+> **dress**：给……穿衣 / 打扮 | dress the child / dress well
+
+
+### 二、核心语法点（考研重点）
+
+#### 语法点1：情态动词must的两种用法⭐⭐⭐⭐⭐
+
+**L17是must用法的总结课！**
+
+| 用法 | 含义 | 课文例子 | 否定形式 |
+|------|------|----------|----------|
+| **推测** | 一定是（90%肯定）| She **must be** at least thirty-five. | can't be（不可能）|
+| **主观义务** | 必须 | she **must appear** in a bright red dress | must not（禁止）|
+
+**must表推测的用法**：
+
+| 时态    | 结构               | 例子                                    |
+| ----- | ---------------- | ------------------------------------- |
+| 现在时   | must + be        | She **must be** at least thirty-five. |
+| 现在进行时 | must + be doing  | He **must be sleeping** now.          |
+| 完成时   | must + have done | She **must have left** already.       |
+
+**考研考点**：完形填空中根据上下文判断must是“推测”还是“必须”。
+
+
+#### 语法点2：have to（不得不）的多种时态⭐⭐⭐⭐⭐
+
+L17中出现了`have to`的三种形式：
+
+| 形式 | 时态 | 课文例子 |
+|------|------|----------|
+| **will have to** | 一般将来时 | Jennifer **will have to** take part in a new play |
+| **had to** | 一般过去时 | she **had to** wear short socks |
+| **have to** | 一般现在时 | （未出现，但常用于陈述）|
+
+**must vs have to 对比**：
+
+| 对比项 | must | have to |
+|--------|------|---------|
+| 含义 | 必须（主观认为）| 不得不（客观需要）|
+| 时态变化 | 只有现在时（可用其他词替代）| 有各种时态 |
+| 否定 | must not（禁止）| don't have to（不必）|
+
+**考研考点**：完形填空中根据语境选择must或have to。
+
+
+#### 语法点3：in spite of / despite / although 辨析⭐⭐⭐⭐
+
+> **In spite of** this, she often appears on the stage as a young girl.
+
+| 连词/介词 | 词性 | 后面跟 | 例子 |
+|-----------|------|--------|------|
+| **in spite of** | 介词 | 名词/代词 | in spite of **this** |
+| **despite** | 介词 | 名词/代词 | despite **this** |
+| **although** | 连词 | 从句 | although **she is old** |
+
+**考研考点**：完形填空中根据后面的语法结构选择正确的词。
+
+
+#### 语法点4：条件状语从句（if anyone ever asks）⭐⭐⭐⭐⭐
+
+> **If anyone ever asks** her how old she is, she always answers...
+
+**结构**：`if + 一般现在时，主句 + 一般现在时`
+
+**与之前条件句的区别**：
+
+| 类型 | 从句时态 | 主句时态 | 例子 |
+|------|---------|----------|------|
+| 真实条件句（将来）| 一般现在时 | 一般将来时 | If you park... a policeman **will find** it |
+| 普遍真理/习惯 | 一般现在时 | 一般现在时 | If anyone **asks**... she always **answers** |
+
+**考研考点**：条件状语从句中，当主句是一般现在时（表示习惯），从句也用一般现在时。
+
+
+#### 语法点5：年龄表达法⭐⭐⭐
+
+| 表达方式 | 结构 | 课文例子 |
+|----------|------|----------|
+| 直接数字 | 数字 + years old | thirty-five years old |
+| of + 数字 | of + 数字 | a girl **of seventeen** |
+| at least | at least + 数字 | **at least** thirty-five |
+| at most | at most + 数字 | — |
+
+**考研写作应用**：
+> The company was founded by a man **of twenty-five**.
+
+
+#### 语法点6：appear的两种用法⭐⭐⭐
+
+> she often **appears on the stage** as a young girl（登台演出）
+
+**appear的其他意思**：
+> **appear** = seem（似乎）| He **appears** to be tired.
+> **appear** = show up（出现）| The sun **appeared** from behind the clouds.
+
+**考研考点**：一词多义，完形填空根据语境判断。
+
+
+## 第二部分：动词时态标注
+
+### L17 逐句时态标注
+
+| 原文 | 动词 | 时态 | 判断理由 |
+|------|------|------|----------|
+| My aunt Jennifer **is** an actress | is | 一般现在时 | 陈述事实 |
+| She **must be** at least thirty-five years old | must be | 情态动词（推测）| 表示推测 |
+| **In spite of this**, she often **appears** on the stage | appears | 一般现在时 | 习惯性动作 |
+| Jennifer **will have to take part in** a new play soon | will have to take part | 一般将来时 | `soon` 将来时间 |
+| This time, she **will be** a girl of seventeen | will be | 一般将来时 | 将来的角色 |
+| In the play, she **must appear** in a bright red dress | must appear | 情态动词（义务）| 剧本要求 |
+| Last year in another play, she **had to wear** short socks | had to wear | 一般过去时 | `last year` 过去时间 |
+| If anyone ever **asks** her how old she **is** | asks / is | 一般现在时（if从句）| 条件状语从句 + 事实 |
+| she always **answers** | answers | 一般现在时 | 习惯性动作 |
+| 'Darling, it **must be** terrible to be grown up!' | must be | 情态动词（推测）| 直接引语中的推测 |
+
+### 时态分布统计
+
+| 时态/情态动词 | 出现次数 | 说明 |
+|--------------|---------|------|
+| 一般现在时 | 4次 | is, appears, asks, is, answers |
+| 情态动词（must） | 3次 | must be（推测）, must appear（义务）, must be（推测）|
+| 一般将来时 | 2次 | will have to take part, will be |
+| 一般过去时 | 1次 | had to wear |
+
+**L17的核心特征**：情态动词must（3次）和have to（2次）是核心语法点，展示了两者的多种用法和时态变化。
+
+
+## 第三部分：不规则动词变化
+
+### L17中的不规则动词
+
+| 原形 | 过去式 | 过去分词 | 在L17中的形式 | 课文句子 |
+|------|--------|----------|--------------|----------|
+| **be** | was/were | been | is / be | **is** an actress / **must be** |
+| **appear** | appeared | appeared | appears | often **appears** on the stage |
+| **take part in** | took part in | taken part in | take part in | **will have to take part in** |
+| **wear** | wore | worn | wear / had to wear | **wear** short socks / **had to wear** |
+| **ask** | asked | asked | asks | If anyone **asks** her |
+| **answer** | answered | answered | answers | she always **answers** |
+| **grow** | grew | grown | be grown up | to **be grown up** |
+
+### 考研重点不规则动词（L17核心）
+
+| 原形 | 过去式 | 过去分词 | 记忆技巧 | 考研常考 |
+|------|--------|----------|----------|----------|
+| **wear** | wore | worn | wear→wore→worn | ⭐⭐⭐⭐⭐ |
+| **grow** | grew | grown | grow→grew→grown | ⭐⭐⭐⭐ |
+| **take** | took | taken | take→took→taken | ⭐⭐⭐⭐⭐ |
+
+
+## 第四部分：考研七步法
+
+### 第1-2步：不规则动词 + 时态分析（已完成）
+
+见上面第二、三部分。
+
+
+### 第3步：整理“考研写作词块”
+
+从L17中提取的可以直接用在考研作文中的词块：
+
+| 词块 | 意思 | 考研写作适用场景 | 例句 |
+|------|------|-----------------|------|
+| **must be at least** | 至少有（推测）| 表达推测 | The population must be at least one million. |
+| **in spite of this** | 尽管如此 | 让步转折 | In spite of this, the project was completed. |
+| **appear on the stage** | 登台演出 | 描述表演 | She first appeared on the stage at age ten. |
+| **as a young girl** | 作为年轻女孩 | 描述角色/身份 | As a young man, he worked hard. |
+| **will have to** | 将不得不 | 描述未来必要性 | We will have to find a solution. |
+| **take part in** | 参加 | 描述参与 | Many countries took part in the conference. |
+| **a girl of seventeen** | 17岁的女孩 | 年龄描述 | She is a woman of great wisdom. |
+| **had to wear** | 不得不穿 | 过去必要性 | In winter, we had to wear heavy coats. |
+| **if anyone ever asks** | 如果有人问 | 条件句 | If anyone asks, tell them I‘m out. |
+| **it must be terrible to do** | 做……一定很糟糕 | 表达推测评价 | It must be terrible to lose a loved one. |
+| **be grown up** | 成年 | 描述成长 | He is a grown-up now. |
+
+**考研写作最常用的3个（优先背）：**
+1. `in spite of / despite` → 让步转折，提升文采
+2. `take part in` → 描述参与活动
+3. `it must be + 形容词 + to do` → 表达推测性评价
+
+
+### 第4步：长难句切分与翻译
+
+L17中值得分析的句子：
+
+> **My aunt Jennifer is an actress. She must be at least thirty-five years old.**
+
+- 切分：`My aunt Jennifer` / `is` / `an actress.` / `She` / `must be` / `at least thirty-five years old.`
+- `must be`：表示推测，作者根据某些线索推断她至少35岁
+- 翻译：我的姑姑詹妮弗是位女演员，她至少35岁了。
+
+> **In spite of this, she often appears on the stage as a young girl.**
+
+- 切分：`In spite of this,` / `she` / `often appears` / `on the stage` / `as a young girl.`
+- `in spite of this`：让步，尽管年龄大，却演年轻女孩
+- 翻译：尽管如此，她却常在舞台上扮演年轻女孩。
+
+> **Jennifer will have to take part in a new play soon. This time, she will be a girl of seventeen.**
+
+- 切分：`Jennifer will have to take part in a new play soon.` / `This time, she will be a girl of seventeen.`
+- `will have to`：客观需要（剧本要求）
+- `a girl of seventeen`：年龄表达，等同于`seventeen years old`
+- 翻译：詹妮弗很快将参加一出新剧的演出。这一次，她将扮演一个17岁的少女。
+
+> **In the play, she must appear in a bright red dress and long black stockings.**
+
+- 切分：`In the play,` / `she` / `must appear` / `in a bright red dress and long black stockings.`
+- `must appear`：主观义务（剧本要求）
+- `in a bright red dress`：介词短语作方式状语
+- 翻译：在那出戏中，她必须穿一条鲜红色的裙子和黑色的长袜。
+
+> **If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'**
+
+- 切分：`If anyone ever asks her how old she is,` / `she always answers,` / `'Darling, it must be terrible to be grown up!'`
+- 条件状语从句：`if + 一般现在时，主句 + 一般现在时`（习惯性动作）
+- 直接引语：must be推测
+- 翻译：如果有人问她多大年纪，她总是回答：“亲爱的，长成大人一定很可怕！”
+
+**考研提示**：本课的核心是must和have to的用法区别，以及in spite of的让步结构。
+
+
+### 第5步：建立“同义替换”本
+
+从L17中找出的同义替换（考研阅读和完形的直接考点）：
+
+| 原文表达 | 同义替换 | 替换类型 |
+|----------|----------|----------|
+| **must be at least** | is probably at least / is no younger than | 词汇+结构 |
+| **in spite of this** | despite this / nevertheless | 词汇替换 |
+| **appears on the stage** | performs on stage / acts on stage | 词汇替换 |
+| **as a young girl** | in the role of a young girl | 词汇替换 |
+| **will have to take part in** | will be required to participate in | 词汇替换 |
+| **a girl of seventeen** | a seventeen-year-old girl | 词汇替换 |
+| **must appear in** | is required to wear / has to be dressed in | 词汇替换 |
+| **had to wear** | was forced to wear / was required to wear | 词汇替换 |
+| **if anyone ever asks** | should anyone ask | 词汇+结构 |
+| **how old she is** | her age | 句式转换 |
+| **always answers** | invariably replies | 词汇替换 |
+| **it must be terrible to** | it must be awful to | 词汇替换 |
+| **be grown up** | be an adult / be mature | 词汇替换 |
+
+**考研最核心的4组（必须掌握）：**
+1. `in spite of` = `despite`（介词）vs `although`（连词）
+2. `take part in` = `participate in` = `join in`
+3. `must`（推测）= `be probably` / `be likely to`
+4. `have to` = `be required to` = `be forced to`
+
+
+### 第6步：输出训练
+
+#### 任务A：看中文，口述英文（不看原文）
+
+| 中文 | 英文（答案） |
+|------|-------------|
+| 我的姑姑詹妮弗是位女演员。 | My aunt Jennifer is an actress. |
+| 她至少35岁了。 | She must be at least thirty-five years old. |
+| 尽管如此，她却常在舞台上扮演年轻女孩。 | In spite of this, she often appears on the stage as a young girl. |
+| 詹妮弗很快将参加一出新剧的演出。 | Jennifer will have to take part in a new play soon. |
+| 这一次，她将扮演一个17岁的少女。 | This time, she will be a girl of seventeen. |
+| 在那出戏中，她必须穿一条鲜红色的裙子和黑色的长袜。 | In the play, she must appear in a bright red dress and long black stockings. |
+| 去年在另一出戏中，她不得不穿短袜和一条亮橙色的连衣裙。 | Last year in another play, she had to wear short socks and a bright, orange-coloured dress. |
+| 如果有人问她多大年纪，她总是回答：“亲爱的，长成大人一定很可怕！” | If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!' |
+
+#### 任务B：用L17的词块自己造句
+
+| 词块 | 你的造句 |
+|------|---------|
+| must be at least | _________________ |
+| in spite of | _________________ |
+| appear on the stage as | _________________ |
+| will have to | _________________ |
+| take part in | _________________ |
+| a girl of... | _________________ |
+| must appear in | _________________ |
+| had to wear | _________________ |
+| if anyone asks | _________________ |
+| it must be terrible to | _________________ |
+
+**参考示例：**
+1. He **must be at least** 50 years old, judging by his grey hair.
+2. **In spite of** the heavy rain, they continued the game.
+3. She first **appeared on the stage as** a child actress.
+4. Due to the deadline, we **will have to** work overtime.
+5. More than 100 countries **took part in** the summit.
+6. She is **a woman of** great courage and determination.
+7. In the ceremony, he **must appear in** a formal suit.
+8. When I was a child, I **had to wear** glasses.
+9. **If anyone asks** where I am, tell them I'm in a meeting.
+10. **It must be terrible to** lose your keys and phone at the same time.
+
+#### 任务C：must / have to 专项练习（考研完形高频）
+
+**1. 选择 must 或 have to（注意时态）：**
+
+| 句子 | 答案 | 理由 |
+|------|------|------|
+| You ______ be tired after that long walk. | must | 推测（一定很累）|
+| I ______ finish this report before 5 pm. | have to | 客观需要 |
+| She ______ be at home. The lights are on. | must | 推测（灯亮着）|
+| Last year, I ______ work six days a week. | had to | 过去客观需要 |
+| You ______ not smoke here. It's forbidden. | must | 禁止 |
+
+**2. 判断 should/must/have to 的使用：**
+
+| 句子 | 答案 | 理由 |
+|------|------|------|
+| You look pale. You ______ see a doctor. | should | 建议 |
+| The door is locked. She ______ have left. | must | 推测（一定离开了）|
+| I ______ study hard to pass the exam. | have to | 客观需要 |
+
+
+#### 任务D：in spite of / although 专项练习（考研完形高频）
+
+**选择正确的词填空：**
+
+| 句子 | 答案 | 理由 |
+|------|------|------|
+| ______ the rain, we went out. | In spite of | 后面跟名词 |
+| ______ it was raining, we went out. | Although | 后面跟从句 |
+| He passed the exam ______ he didn't study much. | although | 后面跟从句 |
+| He passed the exam ______ not studying much. | in spite of | 后面跟动名词 |
+
+
+#### 任务E：阅读理解题（考研题型训练）
+
+根据L17课文回答下列问题：
+
+1. **What is Jennifer‘s profession?**
+   - Answer: She is an actress.
+
+2. **How old must Jennifer be at least?**
+   - Answer: At least thirty-five years old.
+
+3. **What does Jennifer often do in spite of her age?**
+   - Answer: She often appears on the stage as a young girl.
+
+4. **What will Jennifer have to do soon?**
+   - Answer: She will have to take part in a new play.
+
+5. **How old will she be in the new play?**
+   - Answer: She will be a girl of seventeen.
+
+6. **What must she wear in the new play?**
+   - Answer: She must appear in a bright red dress and long black stockings.
+
+7. **What did she have to wear in another play last year?**
+   - Answer: She had to wear short socks and a bright, orange-coloured dress.
+
+8. **How does Jennifer respond when someone asks her age?**
+   - Answer: She always says, 'Darling, it must be terrible to be grown up!'
+
+9. **What does the title 'Always Young' suggest about Jennifer?**
+   - Answer: She always plays young roles on stage and refuses to accept the idea of growing old.
+
+10. **What does the phrase 'it must be terrible to be grown up' reveal about Jennifer's attitude?**
+    - Answer: She avoids the reality of aging and prefers to see herself as young, even at an advanced age. She is in denial about her age and embraces a youthful identity in her professional and personal life.
+
+
+### 第7步：与考研真题建立连接
+
+L17中以下知识点会频繁出现在考研真题中：
+
+| L17知识点 | 考研真题中的应用 |
+|-----------|-----------------|
+| **must 表推测 vs 表义务** | 完形填空语义辨析 |
+| **have to 的时态变化** | 完形填空动词形式选择 |
+| **in spite of / despite / although** | **考研最高频考点之一** |
+| **take part in / join / attend** | 完形填空词义辨析 |
+| **wear / put on / dress** | 完形填空词义辨析 |
+| **条件状语从句（一般现在时）** | 完形填空时态选择 |
+
+
+## L17 考研七步法完整笔记模板
+
+你可以直接抄到笔记本上：
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                  Lesson 17 考研七步法（完整版）                   │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  📝 写作词块（优先背这3个）：                                      │
+│  1. in spite of / despite（尽管）                                │
+│  2. take part in（参加）                                         │
+│  3. must be（一定是，表推测）                                     │
+│                                                                  │
+│  📐 长难句切分：                                                  │
+│  If anyone ever asks her / how old she is, / she always answers, │
+│  'Darling, it must be terrible to be grown up!'                 │
+│  → 条件状语从句（习惯）+ 直接引语                                  │
+│                                                                  │
+│  🔄 同义替换（核心4组）：                                         │
+│  in spite of = despite（介词）vs although（连词）                │
+│  take part in = participate in                                  │
+│  must（推测）= be probably                                       │
+│  have to = be required to                                       │
+│                                                                  │
+│  ✏️ 输出训练（自己造句）：                                        │
+│  1. must be（推测）→ _________________________________           │
+│  2. have to（不得不）→ _________________________________         │
+│  3. in spite of → _________________________________              │
+│                                                                  │
+│  📊 不规则动词（L17重点）：                                       │
+│  wear-wore-worn / grow-grew-grown / take-took-taken             │
+│                                                                  │
+│  ⏰ 时态总结：                                                    │
+│  L17 = 一般现在时（4次）+ 情态动词（3次）+ 一般将来时（2次）         │
+│                                                                  │
+│  🎯 考研核心考点：                                                │
+│  1. must的两种用法：推测（一定是）vs义务（必须）                    │
+│  2. have to的多种时态：will have to（将来）/ had to（过去）       │
+│  3. in spite of（介词）+ 名词 vs although（连词）+ 从句            │
+│  4. 条件状语从句表习惯：if + 一般现在时，主句 + 一般现在时           │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+
+## L17 与之前课文的对比总结
+
+| 对比项 | L15 | L16 | L17 | L18 |
+|--------|-----|-----|-----|-----|
+| 核心语法 | 间接引语 | 条件状语从句 | **情态动词（must/have to）** | have的用法 |
+| 重点1 | 时态回推 | 主将从现 | **must表推测 vs 表义务** | have to |
+| 重点2 | tell vs say | unless = if not | **have to的多种时态** | have got |
+| 重点3 | such/so | however vs but | in spite of vs although | have sth. done |
+| 核心词汇 | afford / extra | pay attention to | wear / put on / dress | — |
+
+
+## 本课核心收获
+
+恭喜你完成L17！这是**情态动词must和have to**的总结课。
+
+**你必须掌握的4个核心能力：**
+
+1. **must的两种用法**：
+   - 推测：`must + be`（一定是）——否定用`can't be`（不可能是）
+   - 义务：`must + do`（必须）——否定用`must not`（禁止）
+
+2. **have to的多种时态**：
+   - 现在：`have/has to`
+   - 过去：`had to`
+   - 将来：`will have to`
+
+3. **in spite of / despite / although** 辨析：
+   - `in spite of / despite` + 名词/代词/动名词
+   - `although` + 从句
+
+4. **wear / put on / dress** 辨析：
+   - `wear`：穿着（状态）
+   - `put on`：穿上（动作）
+   - `dress`：给……穿衣/打扮
+
+**下一步**：完成上面的**任务B（造句）**和**任务E（阅读理解）**，发给我批改。
+
+L17已学完。请问接下来需要哪一课？
