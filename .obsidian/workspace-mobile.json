@@ -11,10 +11,14 @@
             "id": "00219f03f0466307",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "考研/新概念英语二/Lesson 17.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Lesson 17"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "考研/新概念英语二/Lesson 17.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "考研/新概念英语二/Lesson 17.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "考研/新概念英语二/Lesson 17.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -163,10 +170,10 @@
   },
   "active": "00219f03f0466307",
   "lastOpenFiles": [
-    "考研/新概念英语二/未命名11.md",
     "考研/新概念英语二/新概念英语二123.md",
-    "考研/新概念英语二/新概念英语二.md",
     "考研/新概念英语二/Lesson 17.md",
+    "考研/新概念英语二/未命名11手机标题.md",
+    "考研/新概念英语二/新概念英语二.md",
     "手机端测试"
   ]
 }
